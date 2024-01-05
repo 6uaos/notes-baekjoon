@@ -1,2 +1,7 @@
-# notes-baekjoon
-백준문제풀이과정 근데 이제 코랩을 곁들인
+# PROGRAMMING ONLINE JUDGE SOLUTIONS
+with Colab <br>
+
+## Online Judge Sites
+* beakjoon https://www.acmicpc.net/
+* programmers https://programmers.co.kr/
+* codeforces https://codeforces.com/
